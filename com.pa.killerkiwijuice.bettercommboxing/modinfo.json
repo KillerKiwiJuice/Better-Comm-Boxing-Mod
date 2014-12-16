@@ -2,7 +2,7 @@
     "context": "server",
     "identifier": "com.pa.killerkiwijuice.bettercommboxing",
     "display_name": "Better Comm Boxing Mod",
-    "description": "Better commander boxing mod",
+    "description": "Better commander boxing mod. Complete redux of the popular commander boxing game mode. Includes Giant Dox.",
     "author": "KillerKiwiJuice",
     "version": "1.0",
     "build": "74525",
@@ -12,7 +12,7 @@
         "in-game",
         "server-mod"
     ],
-    "forum": "https://forums.uberent.com/threads/rel-dox4lyf-mod.65833/",
+    "forum": "https://forums.uberent.com/threads/rel-better-comm-boxing-mod.66549/",
     "icon": "http://i.imgur.com/bbfsXjW.png",
     "enabled": true
 }
