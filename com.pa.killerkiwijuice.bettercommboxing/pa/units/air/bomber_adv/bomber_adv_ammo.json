@@ -1,0 +1,14 @@
+{
+    "base_spec": "/pa/ammo/base_bomb/base_bomb_adv.json",
+    "damage": 3500,
+    "flight_type": "Direct",
+    "splash_damage": 870,
+    "splash_radius": 18,
+    "full_damage_splash_radius": 4,
+    "initial_velocity": 15,
+    "impact_decals": [
+        "/pa/effects/specs/scorch_b_01.json"
+    ],
+    "max_velocity": 15,
+    "lifetime": 7
+}

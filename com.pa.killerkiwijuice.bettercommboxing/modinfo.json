@@ -1,0 +1,18 @@
+{
+    "context": "server",
+    "identifier": "com.pa.killerkiwijuice.bettercommboxing",
+    "display_name": "Better Comm Boxing Mod",
+    "description": "Better commander boxing mod",
+    "author": "KillerKiwiJuice",
+    "version": "1.0",
+    "build": "74525",
+    "date": "2014/12/15",
+    "signature": "not yet implemented",
+    "category": [
+        "in-game",
+        "server-mod"
+    ],
+    "forum": "https://forums.uberent.com/threads/rel-dox4lyf-mod.65833/",
+    "icon": "http://i.imgur.com/bbfsXjW.png",
+    "enabled": true
+}
