@@ -4,11 +4,7 @@
     "display_name": "Better Comm Boxing Mod",
     "description": "Better commander boxing mod. Complete redux of the popular commander boxing game mode. Includes Giant Dox.",
     "author": "KillerKiwiJuice",
-<<<<<<< HEAD
     "version": "1.2",
-=======
-    "version": "1.1.1",
->>>>>>> origin/master
     "build": "74525",
     "date": "2014/12/16",
     "signature": "not yet implemented",
