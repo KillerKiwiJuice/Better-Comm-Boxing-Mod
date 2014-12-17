@@ -9,7 +9,7 @@
     "max_firing_velocity": 250,
     "min_firing_velocity": 230,
     "max_range": 130,
-    "yaw_rate": 30,
+    "yaw_rate": 5,
     "pitch_rate": 50,
     "yaw_range": 180,
 	"arc_type": "ARC_Low",

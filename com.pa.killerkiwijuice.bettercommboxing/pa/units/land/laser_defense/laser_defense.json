@@ -1,9 +1,9 @@
 {
     "base_spec": "/pa/units/land/base_structure/base_structure.json",
     "display_name": "Double laser tower",
-    "description": "Double ROF and double health compared to single laser tower. Better value.",
+    "description": "Double ROF and double health compared to single laser tower.",
     "max_health": 700,
-    "build_metal_cost": 370,
+    "build_metal_cost": 470,
     "atrophy_rate": 7.5,
     "atrophy_cool_down": 15,
     "spawn_layers": "WL_AnyHorizontalGroundOrWaterSurface",

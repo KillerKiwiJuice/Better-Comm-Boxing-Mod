@@ -30,7 +30,7 @@ function BuildHotkeyModel() {
 
             "/pa/units/land/laser_defense_adv/laser_defense_adv.json": ["combat", 0], 
             "/pa/units/land/laser_defense_rocket/laser_defense_rocket.json": ["combat", 1],                 
-            "/pa/units/land/tactical_missile_launcher/tactical_missile_launcher.json": ["combat", 2],
+            //"/pa/units/land/tactical_missile_launcher/tactical_missile_launcher.json": ["combat", 2],
             //"/pa/units/land/laser_defense_tank/laser_defense_beam.json": ["combat", 3],
             "/pa/units/land/laser_defense/laser_defense.json": ["combat", 5],
             "/pa/units/land/air_defense_adv/air_defense_adv.json": ["combat", 6],       
@@ -66,7 +66,7 @@ function BuildHotkeyModel() {
             "/pa/units/land/assault_bot_t3/assault_bot_t3.json": ["bot", 8],
             "/pa/units/land/bot_grenadier/bot_grenadier.json": ["bot", 12],
             "/pa/units/land/fabrication_bot_combat/fabrication_bot_combat.json": ["bot", 13],
-            "/pa/units/land/bot_tactical_missile/bot_tactical_missile.json": ["bot", 9],
+            //"/pa/units/land/bot_tactical_missile/bot_tactical_missile.json": ["bot", 9],
      
             
             "/pa/units/orbital/orbital_laser/orbital_laser.json": ["orbital", 6],
