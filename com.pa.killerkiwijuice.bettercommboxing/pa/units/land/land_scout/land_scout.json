@@ -3,7 +3,7 @@
     "display_name": "C4 Skitter",
     "description": "C4 Self Destruction Vehicle. CAUTION: Highly explosive.",
     "max_health": 10,
-    "build_metal_cost": 375,
+    "build_metal_cost": 175,
     "attachable": {
         "offsets": {
             "root": [

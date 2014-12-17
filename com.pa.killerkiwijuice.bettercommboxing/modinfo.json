@@ -4,11 +4,7 @@
     "display_name": "Better Comm Boxing Mod",
     "description": "Better commander boxing mod. Complete redux of the popular commander boxing game mode. Includes Giant Dox.",
     "author": "KillerKiwiJuice",
-<<<<<<< HEAD
-    "version": "1.1",
-=======
-    "version": "1.0.1",
->>>>>>> origin/master
+    "version": "1.2",
     "build": "74525",
     "date": "2014/12/16",
     "signature": "not yet implemented",
@@ -17,6 +13,6 @@
         "server-mod"
     ],
     "forum": "https://forums.uberent.com/threads/rel-better-comm-boxing-mod.66549/",
-    "icon": "http://i.imgur.com/bbfsXjW.png",
+    "icon": "http://i.imgur.com/GYmpm6g.png",
     "enabled": true
 }
