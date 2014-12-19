@@ -43,7 +43,7 @@ function BuildHotkeyModel() {
             //"/pa/units/land/artillery_short/artillery_short.json": ["combat", 12],
             //"/pa/units/sea/torpedo_launcher/torpedo_launcher.json": ["combat", 13],
             "/pa/units/orbital/ion_defense/ion_defense.json": ["combat", 14],
-            
+            "/pa/units/land/fabrication_bot_combat/fabrication_bot_combat.json": ["Combat", 2],
 
             //"/pa/units/land/fabrication_vehicle_adv/fabrication_vehicle_adv.json": ["vehicle", 5],
             "/pa/units/land/tank_laser_adv/tank_laser_adv.json": ["vehicle", 6],
@@ -65,7 +65,6 @@ function BuildHotkeyModel() {
             "/pa/units/land/assault_bot/assault_bot.json": ["bot", 11],
             "/pa/units/land/assault_bot_t3/assault_bot_t3.json": ["bot", 8],
             "/pa/units/land/bot_grenadier/bot_grenadier.json": ["bot", 12],
-            "/pa/units/land/fabrication_bot_combat/fabrication_bot_combat.json": ["bot", 13],
             //"/pa/units/land/bot_tactical_missile/bot_tactical_missile.json": ["bot", 9],
      
             
