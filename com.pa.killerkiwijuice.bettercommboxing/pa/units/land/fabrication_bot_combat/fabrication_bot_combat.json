@@ -1,7 +1,7 @@
 {
     "base_spec": "/pa/units/land/base_bot/base_bot.json",
     "display_name": "!LOC(units:combat_fabrication_bot.message):Combat Fabrication Bot",
-    "description": "Build T2 units and the Experimental Uber Dox. Uses 60 metal and 1100 energy.",
+    "description": "Build T2 units and the Experimental Units. Uses 60 metal and 1100 energy.",
     "max_health": 50,
     "build_metal_cost": 720,
     "attachable": {

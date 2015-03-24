@@ -16,7 +16,7 @@
       "selection_response" : { "cue" : "/SE/Selection/bot/assault" }
     },
   "base_spec" : "/pa/units/land/base_bot/base_bot.json",
-  "build_metal_cost" : 8300,
+  "build_metal_cost" : 7300,
   "description" : "Thick plated armor, a laser and flamethrower make this the most deadly mobile unit on the battlefield.",
   "display_name" : "Experimental Uber Dox",
   "command_caps":[
@@ -85,6 +85,11 @@
         "spec_id" : "/pa/units/commanders/base_commander/base_commander_tool_flamethrowerX.json"
       },
 	  {  "spec_id":"/pa/units/land/assault_bot_t3/assault_bot_t3_squisher_tool_weapon.json",
+        "aim_bone":"bone_root",
+        "muzzle_bone":"bone_root",
+        "show_range":false
+      },
+	  {  "spec_id":"/pa/units/land/assault_bot_t3/assault_bot_t3_shield_tool_weapon.json",
         "aim_bone":"bone_root",
         "muzzle_bone":"bone_root",
         "show_range":false
