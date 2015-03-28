@@ -4,10 +4,11 @@
 	"hornet": "The T2 bomber no longer shoots from afar; it now drops a heavy payload which deals immense damage to units. It has a very high turn radius.",
 	"walls": "Use walls to block shots. They are the most important structure in this game mode.",
 	"flak": "The flak cannon can destroy air easily, and also shoots down tactical missiles.",
-	"skitters": "Skitters are the bunker busters. They will knock down any type of fortress they come across. Use them to decimate walls and structures.",
+	"skitters": "Skitters are the bunker busters, and a very important unit. They will knock down any type of fortress they come across. Use them to decimate walls and structures.",
 	"bbots": "Boom bots are able to take down most army compositions, unless there is dox in the mix. Use them to mow down enemy blobs",
 	"gdox": "Giant dox are among the two of the most powerful units. Equipped with a flamethrower and laser, they will crush anything in their path. But be careful; they do no last long versus a fortress. Use them in combination with skitters.",
-	"gtank": Like the giant dox, giant tanks are used to mow down structures. They fill an almost identical role, but they will beat a giant dox in a 1v1 confrontation quite easily. DO NOT KITE THEM BACK! Micro is the enemy of this unit.",
-	"gile": The gil-e is 
+	"gtank": "Like the giant dox, giant tanks are used to mow down structures. They fill an almost identical role, but they will beat a giant dox in a 1v1 confrontation quite easily. DO NOT KITE THEM BACK! Micro is the enemy of this unit.",
+	"gile": "The gil-e is an old unit from beta. This sniper bot shoots ultra-fast bullets at anything in range. They will easily take down points of interest without getting close enough to die. Better vs mobile units than structures.",
+	"bsniper": "The beam sniper bot is also a very important unit. They are like long range skitters; use them to snipe structures and wither down walls until it's time to make a sneaky attack on a hole in the back of your opponent's base."
   }
-}
+}}
